@@ -1,0 +1,7 @@
+{
+    "csharpfixformat.style.newline.atEnd": true,
+    "csharpfixformat.style.spaces.beforeParenthesis": false,
+    "csharpfixformat.style.spaces.afterParenthesis": false,
+    "csharpfixformat.style.spaces.afterBracket": false,
+    "editor.formatOnSave": true
+}

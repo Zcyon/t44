@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TouchScript : MonoBehaviour
-{
-    void Update() {
-    }
+public class TouchScript : MonoBehaviour {
+    void Update() { }
 }
